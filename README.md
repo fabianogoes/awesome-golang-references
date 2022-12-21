@@ -165,7 +165,7 @@ Some of the strong sides of Go language are:
 
 > Vim is a popular text editor that supports Go development through its vim-go plugin. It provides a range of features for developing Go applications, including code completion, linting, and debugging.
 
-![Vim](./assets/vim.png)
+![Vim](./vim.png)
 
 ---
 
