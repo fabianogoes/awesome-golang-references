@@ -53,6 +53,7 @@ Some of the strong sides of Go language are:
     - [Ian Lance Taylor](#ian-lance-taylor)
     - [Dave Cheney](#dave-cheney)
     - [Mat Ryer](#mat-ryer)
+  - [Go Style Guide](#go-style-guide)
   - [Mentions](#mentions)
   
 ## Web
@@ -246,6 +247,12 @@ Some of the most famous Go language programmers are
 ### [Mat Ryer](https://medium.com/@matryer)
 
 > Mat Ryer is a well-known figure in the Go community and the founder of the GoBridge and GoLearn organizations. He has made significant contributions to Go language and its ecosystem, including the development of popular Go libraries and tools.
+
+---
+
+## Go Style Guide
+
+- [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 ---
 
