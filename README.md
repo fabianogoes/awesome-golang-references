@@ -30,6 +30,8 @@ Some of the strong sides of Go language are:
     - [Go-Redis](#go-redis)
   - [Kafka](#kafka)
     - [gogen-avro](#gogen-avro)
+  - [Configuration](#configuration)
+    - [Viper](#viper)
   - [IDE](#ide)
     - [GoLand](#goland)
     - [Visual Studio Code](#visual-studio-code)
@@ -145,6 +147,13 @@ Some of the strong sides of Go language are:
 ### [gogen-avro](https://github.com/actgardner/gogen-avro)
 
 > Generates type-safe Go code based on your Avro schemas, including serializers and deserializers that support Avro's schema evolution rules. Also supports deserializing generic Avro data (in beta).
+
+---
+
+## Configuration
+
+### [Viper](https://github.com/spf13/viper)
+> Viper is a complete configuration solution for Go applications including 12-Factor apps. It is designed to work within an application, and can handle all types of configuration needs and formats. It supports:
 
 ---
 
