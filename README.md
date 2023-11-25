@@ -37,12 +37,15 @@ Some of the strong sides of Go language are:
     - [Visual Studio Code](#visual-studio-code)
     - [Sublime Text](#sublime-text)
     - [Vim](#vim)
+  - [Utils](#utils)
+    - [Air](#air)
   - [Clouds](#clouds)
     - [Amazon Web Services](#amazon-web-services)
     - [Microsoft Azure](#microsoft-azure)
     - [Google Cloud Platform](#google-cloud-platform)
     - [Heroku](#heroku)
     - [DigialOcean](#digitalocean)
+    - [Render](#render)
   - [Resources](#resources)
     - [Go by Example](#go-by-example)
     - [Go Tour](#go-tour)
@@ -179,6 +182,15 @@ Some of the strong sides of Go language are:
 
 ---
 
+## Utils
+
+### Air
+
+> [Air - Live reload for Go apps](https://github.com/cosmtrek/air) - When I started developing websites in Go and using gin framework, it was a pity that gin lacked a live-reloading function. So I searched around and tried fresh, it seems not much flexible, so I intended to rewrite it better. Finally, Air's born. In addition, great thanks to pilu, no fresh, no air :)
+Air is yet another live-reloading command line utility for developing Go applications. Run air in your project root directory, leave it alone, and focus on your code.
+
+---
+
 ## Clouds
 
 Many cloud providers support Go language, including
@@ -204,6 +216,10 @@ Many cloud providers support Go language, including
 ### [DigitalOcean](https://www.digitalocean.com/)
 
 > [DigitalOcean](https://www.digitalocean.com/) offers a range of services and tools for developing and deploying Go applications on its cloud platform, including Droplets, Kubernetes, and App Platform.
+
+### [Render](https://render.com/)
+
+> [Render](https://render.com/) is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private network, and auto deploy from Git.
 
 ---
 
